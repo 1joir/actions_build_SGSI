@@ -1,14 +1,14 @@
 {
-  "rom_url": "https://coloroswebsitefs.coloros.com/coloroswebsite-coloros-com/grs_20210422084808/PCLM10_11_OTA_1350_all_RdVc0SEDWd4u.ozip",
+  "rom_url": "https://www.coolapk.com/link?url=https%3A%2F%2Fdownload.meizu.com%2FFirmware%2FFlyme%2F16s_Pro%2F9.21.4.29%2Fcn_daily%2F20210429002119%2F889a2ad5%2Fupdate.zip",
   "rom_name": "update.zip",
   "pack_sgsi": "SGSI.zip",
   "make_type": "AB",
-  "rom_type": "Color",
-  "light_fix": true,
-  "bug_fix": true,
+  "rom_type": "Flyme",
+  "light_fix": false,
+  "bug_fix": false,
   "version": "10",
-  "upload_transfer": false,
-  "upload_release": true,
+  "upload_transfer": true,
+  "upload_release": false,
   "use_7zip": false,
   "use_zip": true
 }
