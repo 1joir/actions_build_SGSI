@@ -5,10 +5,10 @@
   "make_type": "AB",
   "rom_type": "Color",
   "light_fix": false,
-  "bug_fix": true,
+  "bug_fix": false,
   "version": "10",
   "upload_transfer": false,
   "upload_release": true,
   "use_7zip": false,
-  "use_zip": true
+  "use_zip": false
 }
